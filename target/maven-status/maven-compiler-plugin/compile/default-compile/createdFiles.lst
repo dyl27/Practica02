@@ -1,0 +1,5 @@
+dao/BookDAO.class
+com/mycompany/libreria/resources/JakartaEE11Resource.class
+controller/BookServlet.class
+com/mycompany/libreria/JakartaRestConfiguration.class
+model/Book.class
